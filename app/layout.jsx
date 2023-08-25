@@ -4,7 +4,7 @@ import Nav from '@components/Nav'
 import Provider from  '@components/Provider'
 export const metadata={
 
-    title:'Promptopia',
+    title:'Inspiro',
     description:'Discover and share Ai prompts'
 }
 const RootLayout = ({children}) => {
